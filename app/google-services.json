@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350205011247",
+    "project_id": "firestore-crud-99deb",
+    "storage_bucket": "firestore-crud-99deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350205011247:android:109e4206e83f577bdbadda",
+        "android_client_info": {
+          "package_name": "com.example.firestorecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHminovQSKgqCJzgbN7OeMSWRnmoMni0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

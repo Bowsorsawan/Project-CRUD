@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.firestorecrud.app-mergeDebugResources-35:/layout/user_list_item.xml",
+        "source": "com.example.firestorecrud.app-main-38:/layout/user_list_item.xml"
+    },
+    {
+        "merged": "com.example.firestorecrud.app-mergeDebugResources-35:/layout/activity_edit_user.xml",
+        "source": "com.example.firestorecrud.app-main-38:/layout/activity_edit_user.xml"
+    },
+    {
+        "merged": "com.example.firestorecrud.app-mergeDebugResources-35:/layout/activity_add_user.xml",
+        "source": "com.example.firestorecrud.app-main-38:/layout/activity_add_user.xml"
+    },
+    {
+        "merged": "com.example.firestorecrud.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.firestorecrud.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.firestorecrud.app-mergeDebugResources-35:/layout/activity_sign_up.xml",
+        "source": "com.example.firestorecrud.app-main-38:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.firestorecrud.app-mergeDebugResources-35:/layout/activity_sign_in.xml",
+        "source": "com.example.firestorecrud.app-main-38:/layout/activity_sign_in.xml"
+    }
+]

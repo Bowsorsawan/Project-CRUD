@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="lavender">#8692f7</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC801</color>
+    <string name="app_name">Firestore CRUD</string>
+    <string name="gcm_defaultSenderId" translatable="false">350205011247</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTHminovQSKgqCJzgbN7OeMSWRnmoMni0</string>
+    <string name="google_app_id" translatable="false">1:350205011247:android:109e4206e83f577bdbadda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTHminovQSKgqCJzgbN7OeMSWRnmoMni0</string>
+    <string name="google_storage_bucket" translatable="false">firestore-crud-99deb.appspot.com</string>
+    <string name="project_id" translatable="false">firestore-crud-99deb</string>
+    <style name="Base.Theme.FirestoreCRUD" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimaryVariant">@color/lavender</item>
+    </style>
+    <style name="LoginTextInputInnerFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="LoginTextInputOuterFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
+    <style name="Theme.FirestoreCRUD" parent="Base.Theme.FirestoreCRUD"/>
+</resources>
